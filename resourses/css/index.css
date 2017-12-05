@@ -1,0 +1,64 @@
+.header h1{
+    background-color: black;
+    font-family: Verdana;
+    font-weight: Normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+h4{
+    color: aquamarine;
+    text-align: center;
+    font-size: 16px;
+}
+h2{
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+}
+h3{
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: center;
+    
+}
+#ex {
+    font-family: Verdana;
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
+.down h1{
+    font-family: Verdana;
+    font-weight: Normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+body {
+    background-color: black;
+    text-align: center;
+}
+.image{
+        background:
+        url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/excursion/images/camp.jpg);   
+  background-position: center;
+    background-size: cover;
+  height: 300px;
+}
+
+.video{
+    background:
+        url(resourses/videos/excursion);
+    background-position: center;
+    text-align: center;
+    visibility: visible;
+    background: repeat;
+}
+#image2{
+    background:
+        url(resourses/Videos/phone.png);
+    background-position: center;
+}
